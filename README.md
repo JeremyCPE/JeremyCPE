@@ -14,7 +14,7 @@ Software Engineer, focusing on learning and learning ! Hit me up
   <a href="https://www.linkedin.com/in/jeremy-mohariry/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://x.com/JayTryToCode">
+  <a href="https://x.com/JayQuery__">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=JeremyCPE&style=flat-square&color=blue" alt=""/>
