@@ -7,7 +7,7 @@ Software Engineer, focusing on learning and learning ! Hit me up
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JeremyCPE&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak]((https://github-readme-streak-stats-vijaypur.vercel.app?user=JeremyCPE&theme=dark&background=000000)](https://git.io/streak-stats)
 
 📫 How to reach me: ...
 <div id="badges">
